@@ -1,1 +1,20 @@
-{}
+{
+  "sas": {
+    "escenarios": 2,
+    "consolas de sonido": 2,
+    "lineas de sonido": 2,
+    "referencias": 2,
+    "microfonos": 2,
+    "torres de sonido": 2,
+    "ingenieros de sonido": 2,
+    "tecnicos de sonido": 2,
+    "consola de luces tradicionales": 2,
+    "consola de luces inteligente": 2,
+    "luces tradicionales": 2,
+    "luces con efectos": 2,
+    "ingeniero de luces": 2,
+    "tecnico de luces": 2,
+    "disenaor de escenario": 2,
+    "tramoyistas": 2
+  }
+}

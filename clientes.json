@@ -1,1 +1,46 @@
-{}
+{
+  "evento_1": {
+    "sas": {
+      "escenarios": 1,
+      "consolas de sonido": 1,
+      "lineas de sonido": 1,
+      "referencias": 1,
+      "microfonos": 1,
+      "torres de sonido": 1,
+      "ingenieros de sonido": 1,
+      "tecnicos de sonido": 1,
+      "consola de luces tradicionales": 1,
+      "luces tradicionales": 1,
+      "ingeniero de luces": 1,
+      "tecnico de luces": 1,
+      "disenaor de escenario": 1,
+      "tramoyistas": 1,
+      "periodo": {
+        "fecha de inicio": "2010-10-02 00:00:00",
+        "fecha de fin": "2010-10-03 00:00:00"
+      }
+    }
+  },
+  "evento_2": {
+    "sas": {
+      "escenarios": 1,
+      "consolas de sonido": 1,
+      "lineas de sonido": 1,
+      "referencias": 1,
+      "microfonos": 1,
+      "torres de sonido": 1,
+      "ingenieros de sonido": 1,
+      "tecnicos de sonido": 1,
+      "consola de luces tradicionales": 1,
+      "luces tradicionales": 1,
+      "ingeniero de luces": 1,
+      "tecnico de luces": 1,
+      "disenaor de escenario": 1,
+      "tramoyistas": 1,
+      "periodo": {
+        "fecha de inicio": "2010-10-10 00:00:00",
+        "fecha de fin": "2010-10-12 00:00:00"
+      }
+    }
+  }
+}

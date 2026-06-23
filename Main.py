@@ -1,8 +1,5 @@
-import json
-from Funciones import crear_inventario
 from Menu import menu
-import streamlit as st
-from  datetime import date
+
 
 posible_inventario = [ 
     "escenarios",
@@ -25,6 +22,7 @@ posible_inventario = [
 
 varios_inventarios = {}
 dic_clientes = {}
+
 menu(posible_inventario, varios_inventarios, dic_clientes)
 
 
